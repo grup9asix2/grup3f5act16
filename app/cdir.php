@@ -24,6 +24,6 @@ function decimalmascaraToCIDR($mascara) {
     $allargada = ip2long($mascara);
     $base = ip2long('255.255.255.255');
     $bits = 32 - log(($allargada ^ $base) + 1, 2);
-    return long2ip($allargada) . '/' . $bits;
+    return $bits;
 }
 ?>
