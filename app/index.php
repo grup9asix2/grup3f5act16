@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<h2>Grup 3 del project de DevOps i Cloud Computing</h2>
-		<p><b>CALCUALDORA DE XARXES 3.2</b></p>
+		<p><b>CALCUALDORA DE XARXES 3.7</b></p>
 		<a> --------------------------------------------------</a>
 		<a href="ip.php"><br>a) Calcul de subxarxes</a>
 		<a href="cdir.php"><br>b) Calcul de decimal a CDIR</a>
